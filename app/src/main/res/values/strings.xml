@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">MathQuiz</string>
+  <string name="go">START</string>
+  <string name="textview_timer">TextView</string>
+</resources>
